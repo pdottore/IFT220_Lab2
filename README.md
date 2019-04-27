@@ -1,7 +1,7 @@
 # IFT 220 Lab 2hjjkhjk
 
 ## For ASU's IFT 220 2018 Fall B course.
-
+jkjkl
 ### (Do this on your VM.  Take a VM snapshot so you can undo if something goes wrong.)
 
 1.	~~Install https://www.microsoft.com/en-us/download/details.aspx?id=54616 (**Win8.1AndW2K12R2-KB3191564-x64.msu**)~~
